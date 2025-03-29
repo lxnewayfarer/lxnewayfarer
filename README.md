@@ -17,3 +17,7 @@
 </div>
 <h3>Currently working on:</h3>
 <a href="https://www.evrone.com"> <img src="https://teamleadconf.ru/uploads/b/62/7007725056366813a6af05b3899f3.png" height="30" alt="Example Image"> </a>
+<h3>What am I doing:</h3>
+<li>Build high load applications with large amount of queries to database</li>
+<li>Mentor junior developers</li>
+<li>Self-educating everyday</li>
