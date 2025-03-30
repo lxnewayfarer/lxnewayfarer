@@ -22,7 +22,8 @@
 
 ## 👨‍💻 Currently Working At
 
-[<img src="https://teamleadconf.ru/uploads/b/62/7007725056366813a6af05b3899f3.png" height="40" alt="Evrone">](https://www.evrone.com)
+[<img src="https://teamleadconf.ru/uploads/b/62/7007725056366813a6af05b3899f3.png" height="40" alt="Evrone">](https://www.evrone.com) 
+<p>We offer a complete range of bespoke design and development services to help you turn your ideas into digital masterpieces.</p>
 
 ## 🔥 What I Do
 
