@@ -27,9 +27,3 @@
 - Continuously learn and improve my skills
 - Optimize application performance and database queries
 - Solve complex technical challenges
-
-## How to Reach Me
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/andrey-dolgikh)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/lxneway)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:lxnewayfarer@yandex.ru)
