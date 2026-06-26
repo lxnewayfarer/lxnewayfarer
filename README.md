@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Andrey 
 
-**Ruby on Rails Developer** with experience in building high-performance web applications
+**Software-engineer** with experience in building high-performance web applications
 
 ## Tech Stack
 
